@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Admin\source\repos\Cau5\Cau5\main.c(13,66): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Admin\source\repos\Cau5\Cau5\main.c(13,62): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Cau5.vcxproj -> C:\Users\Admin\source\repos\Cau5\Debug\Cau5.exe
